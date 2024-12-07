@@ -1,7 +1,7 @@
 /*
  * Base By Ednut
  * Created On 11/10/2024
- * Contact Me on wa.me/2348102487241
+ * Contact Me on wa.me/50932295467
 */
 require("./config.js")
 const {
